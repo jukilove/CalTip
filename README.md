@@ -1,3 +1,0 @@
-# CalTip
-
-Hello World!
